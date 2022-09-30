@@ -1,0 +1,25 @@
+
+-------------------- Starting Application --------------------
+Dividing Data in Test/Training: 0.46875s
+Cleaning not words: 1.3125s
+Creating test BOW: 0.265625s
+Removing StopWords: 1.21875s
+Creating training BOW: 0.140625s
+Training Union: 0.0s
+Creating Multiple BOW: 0.0
+Countablizing MBOW: 0.015625s
+Applying KNN: 0.359375s
+Writing outputs: 0.0625s
+KNN accuracy: 0.76
+-------------------- Starting Application --------------------
+Dividing Data in Test/Training: 0.484375s
+Cleaning not words: 1.28125s
+Creating test BOW: 0.265625s
+Removing StopWords: 1.1875s
+Creating training BOW: 0.15625s
+Training Union: 0.0s
+Creating Multiple BOW: 0.015625
+Countablizing MBOW: 0.015625s
+Applying KNN: 0.34375s
+Writing outputs: 0.046875s
+KNN accuracy: 0.76
