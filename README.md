@@ -16,7 +16,8 @@ Note: There is no need to remove stop words from test, since test can have noise
 
 ## Data  
 In this case was used 2 bag of words: *alt.altheism.txt* and *talk.politics.misc.txt*. But there is more data that could be added or used instead, these data can be extract from *raw_data/raw_data.rar*  
-In code, the 2 variables for training e 2 variables for test representes these two texts
+In code, the 2 variables for training e 2 variables for test representes these two texts  
+*BagOfWords.py* contains the entire code
 
 
 ## Output
