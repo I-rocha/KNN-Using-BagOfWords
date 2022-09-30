@@ -1,5 +1,6 @@
 # KNN-Using-BagOfWords
-This project has the main purpose of processing text and form bag of words(BOW). The application of KNN is used as an example of using the BOW but is not the main purpose here. Besides there is also a list of stop words considered in this application
+This project has the main purpose of processing text and form bag of words(BOW). The application of KNN is used as an example of using the BOW but is not the main purpose here. Besides there is also a list of stop words considered in this application.  
+What the entire code does is to create bag of words allowing AI to process text. Each BOW is a representation of one entire text file. Finally, the KNN here predicts for a given word, which text it belongs.
 
 
 The flow of processing was  
@@ -11,7 +12,8 @@ The flow of processing was
 6. Creating single BOW for training  
 7. Creating Multiple -in my case, 2- Bag of Word (MBOW)  
 8. Applying KNN  
-Note: There is no need to remove stop words from test, since test can have noise and the AI should 
+   
+Note: There is no need to remove stop words from test, since test can have noise and the AI should be capable of deal with it
 
 
 ## Data  
